@@ -7,3 +7,6 @@
   
 <h3>Things I'm going to finish soon
 <h4>• JenHud
+  
+<h3>Priorities
+<h4>Re Learning how to make TF2 Huds
