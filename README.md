@@ -11,3 +11,5 @@
   
 <h3>Priorities
 <h4>• Re Learning how to make TF2 Huds
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subtojbstaryt)](https://github.com/anuraghazra/github-readme-stats)
