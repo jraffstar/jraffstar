@@ -11,5 +11,3 @@
   
 <h3>Priorities
 <h4>• Re Learning how to make TF2 Huds
-  
-  ![counter](https://enn1wj1yg7thpe.m.pipedream.net)
