@@ -5,4 +5,4 @@
   <h3> epic <h3\>
 
 i can code in python fluently
-i can someone code in java
+and i can somwhat code in java
