@@ -4,3 +4,5 @@ main machine:
 thinkpad x230
 - libreboot
 - gentoo gnu/linux-libre
+
+<https://jenny.bike>
