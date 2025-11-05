@@ -1,4 +1,4 @@
-nya :3
+meow :3
 
 main machine:
 thinkpad x230
