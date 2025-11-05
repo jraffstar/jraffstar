@@ -1,3 +1,6 @@
-nya
+nya :3
 
-thinkpad x230 - gentoo
+main machine:
+thinkpad x230
+- libreboot
+- gentoo gnu/linux-libre
