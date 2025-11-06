@@ -6,3 +6,5 @@ thinkpad x230
 - gentoo gnu/linux-libre
 
 <https://jenny.bike>
+
+currently learning rust :3
