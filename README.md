@@ -2,7 +2,7 @@ nya :3
 
 main machine:
 - thinkpad t450s + coreboot
-- nixOS
+- Gentoo
 
 Docs/Website:
 
