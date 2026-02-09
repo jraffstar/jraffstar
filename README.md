@@ -1,12 +1,15 @@
-haii :3c
+# haii :3c
+hiya! im jenny and im a t level student studying digital software development. i am especially passionate about linux and foss+privacy tools, i know a lot about securing systems, aswell as actively maintaining systems :3
 
-main machine:
-- thinkpad t450s + coreboot
-- parabola gnu/linux-libre
+### languages:
+- c/c++
+- python
+- java
 
-Docs/Website:
+### core skills:
+- backend
+- linux
+- cybersecurity
 
-<https://jenny.bike>
-
-Currenty Learning:
-- rust
+### main machine:
+thinkpad t450s running gentoo gnu/linux-libre
