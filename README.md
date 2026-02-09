@@ -1,5 +1,5 @@
 # haii :3c
-hiya! im jenny and im a t level student studying digital software development. i am especially passionate about linux and foss+privacy tools, i know a lot about securing systems, aswell as actively maintaining systems :3
+hiya! im jenny and im a t level student studying digital software development. i am especially passionate about virtualisation, linux and foss+privacy, i know a lot about securing systems, aswell as actively maintaining systems :3
 
 ### languages:
 - c/c++
@@ -7,6 +7,7 @@ hiya! im jenny and im a t level student studying digital software development. i
 - java
 
 ### core skills:
+- virtualisation
 - backend
 - linux
 - cybersecurity
