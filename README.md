@@ -1,4 +1,4 @@
-# about me :3
+# jenny ![](https://komarev.com/ghpvc/?username=jraffstar&color=bd93f9)
 hiya! i'm jenny and im a t-level student studying digital software development. i am especially passionate about virtualisation, linux and foss+privacy, i know a lot about securing systems, aswell as actively maintaining systems :3
 
 ### languages:
