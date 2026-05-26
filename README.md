@@ -1,5 +1,5 @@
 # jenny ![](https://komarev.com/ghpvc/?username=jraffstar&color=bd93f9)
-hiya! i'm jenny and im a t-level student studying digital software development. i am especially passionate about virtualisation, linux and foss+privacy, i know a lot about securing systems, aswell as actively maintaining systems :3
+Hiya! i'm Jenny and im a T-Level student studying Digital Software Development. I am especially passionate about virtualisation, Linux and FOSS+Privacy, i know a lot about securing systems, as well as actively maintaining systems :3
 
 ### languages:
 <p>
@@ -14,3 +14,5 @@ hiya! i'm jenny and im a t-level student studying digital software development. 
 - backend
 - linux
 - cybersecurity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jraffstar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
