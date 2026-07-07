@@ -6,7 +6,6 @@ Hiya! i'm Jenny and im a T-Level student studying Digital Software Development. 
   <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/programming%20languages/javascript.svg" width="40"/>
 </p>
 
 ### core skills:
